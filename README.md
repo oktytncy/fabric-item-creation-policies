@@ -50,7 +50,9 @@ The following Item Creation Policy was configured:
 
 ### Policy Configuration Screenshot
 
-images/policyset-configuration.png
+   <p align="left">
+   <img src="images/lakehouse-creation-blocked.png" alt="drawing" width="800"/>
+   </p>
 
 ---
 
