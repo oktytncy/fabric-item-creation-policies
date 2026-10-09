@@ -50,10 +50,10 @@ The following Item Creation Policy was configured:
 
 ### Policy Configuration Screenshot
 
-<p align="center">
-   images/policyset-configuration.png
-  </p>
-
+   <p align="left">
+     <img src="images/policyset-configuration.png" alt="drawing" width="500"/>
+   </p>
+   
 ---
 
 ## Validation Scenario
@@ -81,9 +81,9 @@ The following Item Creation Policy was configured:
 
 ### Enforcement Screenshot
 
-  <p align="center">
-    images/lakehouse-creation-blocked.png
-  </p>
+   <p align="left">
+     <img src="images/lakehouse-creation-blocked.png" alt="drawing" width="500"/>
+   </p>
 
 ---
 
