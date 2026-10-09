@@ -50,8 +50,8 @@ The following Item Creation Policy was configured:
 
 ### Policy Configuration Screenshot
 
-  <p align="center">
-    images/policyset-configuration.png
+<p align="center">
+   images/policyset-configuration.png
   </p>
 
 ---
